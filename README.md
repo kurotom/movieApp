@@ -6,3 +6,9 @@ It uses The Movie Database (TMDB) API.
 
 
 :point_right:  **https://moviesview.herokuapp.com/**
+
+
+
+
+
+
